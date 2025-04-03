@@ -1,1 +1,5 @@
-# genius-homework
+[Homework 1](https://Vadhouse.github.io/genius-homework/homework-1/)
+[Homework 2](https://your-name.github.io/genius-homework/homework-2/)
+[Homework 3](https://your-name.github.io/genius-homework/homework-1/)
+[Homework 4](https://your-name.github.io/genius-homework/homework-2/)
+[Homework 5](https://your-name.github.io/genius-homework/homework-1/)
